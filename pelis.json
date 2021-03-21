@@ -1,0 +1,98 @@
+[
+    {
+        "title": "Pulp fiction",
+        "rating": 9.5,
+        "tags": [
+            "crimen",
+            "drama"
+        ]
+    },
+    {
+        "title": "Ciegos, sordos y locos",
+        "rating": 7.2,
+        "tags": [
+            "comedia",
+            "policial"
+        ]
+    },
+    {
+        "title": "El efecto mariposa",
+        "rating": 8.5,
+        "tags": [
+            "cienciaficcion",
+            "romance"
+        ]
+    },
+    {
+        "title": "Death proof",
+        "rating": 8.7,
+        "tags": [
+            "accion",
+            "suspenso"
+        ]
+    },
+    {
+        "title": "Natural born killers",
+        "rating": 8.0,
+        "tags": [
+            "crimen",
+            "accion"
+        ]
+    },
+    {
+        "title": "Inglourious Basterds",
+        "rating": 7.3,
+        "tags": [
+            "belico",
+            "accion"
+        ]
+    },
+    {
+        "title": "Jackie brown",
+        "rating": 8.4,
+        "tags": [
+            "thriller",
+            "drama"
+        ]
+    },
+    {
+        "title": "Whiplash",
+        "rating": 9.8,
+        "tags": [
+            "musica",
+            "drama"
+        ]
+    },
+    {
+        "title": "Cinema paradiso",
+        "rating": 9.5,
+        "tags": [
+            "drama",
+            "comedia"
+        ]
+    },
+    {
+        "title": "Clockwork orange",
+        "rating": 9,
+        "tags": [
+            "cienciaficcion",
+            "drama"
+        ]
+    },
+    {
+        "title": "The shining",
+        "rating": 8.2,
+        "tags": [
+            "drama",
+            "terror"
+        ]
+    },
+    {
+        "title": "As good as it gets",
+        "rating": 8.9,
+        "tags": [
+            "comedia",
+            "romantica"
+        ]
+    }
+]
